@@ -186,6 +186,7 @@ void D_LoadTree(Tree *a){
         free(name);
         printf("key is longer, than necessary\n");
         printf("Reload file\n");
+        return;
     }
     fclose(fp);
     free(name);
@@ -202,6 +203,7 @@ void D_SaveTreeInFile(Tree *a){
     if((fp = fopen(name, "w"))==NULL){
         printf("File cannot be open\n");
         free(name);
+        return;
     }
     fseek(fp, 0, SEEK_SET);
     SaveInFile(fp, a->node);

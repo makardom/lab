@@ -16,10 +16,8 @@ int main() {
         scanf("%*c");
         if (choice==0){
             flag = 0;
-        }else if (choice>0 && choice<=6){
-            if (D_Start(&a, choice)==1){
-                return 1;
-            }
+        }else if (choice>0 && choice<=12){
+            D_Start(&a, choice);
         } else
             printf("Enter correct number!\n");
     }
