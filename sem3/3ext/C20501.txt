@@ -1,0 +1,30 @@
+2050101
+Adianov 1 
+2050102
+Vinokurova 1 
+2050103
+Volobuev 1 
+2050104
+Voroncov 1 10 
+2050105
+Domanov 1 10 
+2050106
+Zavgorodniy 1 10 
+2050107
+Zinoviev 0 
+2050108
+Zinchenko 1 10 
+2050109
+Zolotuhin 1 10 
+2050110
+Karpuhin 1 10 
+2050111
+Kataeva 1 9 
+2050112
+Klimonov 1 9 
+2050113
+Kondratiev 1 9 
+2050114
+Krasikov 1 9 
+2050115
+Krygin 1 10 
